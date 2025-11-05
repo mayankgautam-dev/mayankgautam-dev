@@ -10,7 +10,7 @@
   <table>
     <tr>
       <td width="60%" valign="top">
-        <h2 align="left">About me</h2>
+        <h2 align="left">Languages and Tools</h2>
         <p align="left">
           ✨ Exploring the world of coding since 2023<br>
           📚 I'm currently learning AI/ML, cybersecurity & web development<br>
@@ -63,4 +63,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayankgautam-dev/mayankgautam-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mayankgautam-dev/mayankgautam-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mayankgautam-dev/mayankgautam-dev/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 ###
