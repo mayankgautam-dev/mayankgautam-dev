@@ -10,7 +10,7 @@
   <table>
     <tr>
       <td width="60%" valign="top">
-        <h2 align="left">🚀 Languages & Tools</h2>
+        <h2 align="left">👤 About Me</h2>
         <p align="left">
           ✨ Exploring the world of coding since 2023<br>
           📚 I'm currently learning AI/ML, cybersecurity & web development<br>
@@ -27,7 +27,7 @@
 
 ###
 
-<h2 align="left">💻 I code with</h2>
+<h2 align="left">💻 Languages & Tools</h2>
 
 ###
 
