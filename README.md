@@ -26,8 +26,6 @@ When I'm not staring at code, I'm probably:
 - Planning my next trek into the mountains
 - Exploring trails and chasing views
 
-[LinkedIn](https://linkedin.com/in/userinaction) • [Twitter](https://twitter.com/userinaction) • [Discord](https://discord.com/users/userinaction)
-
 ---
 
 *Building things, breaking things, learning from both.*
