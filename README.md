@@ -1,25 +1,33 @@
-# Hey, I'm Mayank 👋
+# About Me
 
-Third-year CSE student building at the intersection of full-stack development and AI.
+CSE student exploring full-stack development, AI, and cybersecurity.
+
+## What I'm Working On
+
+Learning and building projects that push me to grow. Diving into cloud tech and ML while trying to get a little better every day.
 
 ## Tech Stack
 
 **Languages:** Python • TypeScript • JavaScript • C++  
 **Frontend:** React • Next.js • Tailwind CSS  
-**Backend:** Node.js • FastAPI • MySQL • Firebase  
+**Backend:** Node.js • FastAPI • MySQL • Firebase
 
+## Currently Learning
 
-## Currently
-
-- Learning cloud technologies & ML
-- Exploring cybersecurity
+- Cloud technologies & machine learning
+- Cybersecurity fundamentals  
 - Building developer tools
 
-## Interests
+## Beyond Code
 
-Making AI practical, securing systems, and creating tools that make developers' lives easier. Always down to collaborate on interesting projects.
+When I'm not staring at code, I'm probably:
+- Playing cricket or football with friends
+- Lost in a good film or series (yes, I'm a cinephile)
+- Planning my next trek into the mountains
+- Exploring trails and chasing views
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/userinaction) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/userinaction) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/userinaction)
+[LinkedIn](https://linkedin.com/in/userinaction) • [Twitter](https://twitter.com/userinaction) • [Discord](https://discord.com/users/userinaction)
 
 ---
+
 *Building things, breaking things, learning from both.*
