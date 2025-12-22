@@ -25,7 +25,8 @@ When I'm not staring at code, I'm probably:
 - Lost in a good film or series (yes, I'm a cinephile)
 - Planning my next trek into the mountains
 - Exploring trails and chasing views
-
+  
+<sub>• <a href="https://discord.com/users/userinaction">Discord</a></sub>
 ---
 
 *Building things, breaking things, learning from both.*
